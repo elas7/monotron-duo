@@ -1,0 +1,51 @@
+html {
+    background: #050505;
+    color: #f3e939;
+    font-family: Courier, sans-serif;
+    font-size: 18px;
+}
+
+h1, h2 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1, a, a:visited, pre {
+    color: #fb2a3d;
+}
+
+h2 {
+    color: #076cf0;
+    font-size: 1.3em;
+    line-height: 1.3em;
+}
+
+.container {
+    width: 600px;
+    margin: 40px auto;
+}
+
+.the-hancock {
+    float: right;
+    width: 300px;
+}
+
+pre, dd {
+    margin-left: 0;
+}
+
+dt {
+    min-width: 200px;
+    display: inline-block;
+    float: left;
+    color: #076cf0;
+}
+
+dt, dd {
+    margin-bottom: 10px;
+}
+
+code {
+    background: #f3e939;
+    color: #050505;
+    padding: 0 0.5em;
+}
